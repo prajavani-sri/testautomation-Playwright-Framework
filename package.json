@@ -1,0 +1,21 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "This is my Playwright Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Praja",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.14.0"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.8"
+  }
+}
